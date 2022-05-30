@@ -13,6 +13,15 @@ bin-release/
 *.ipa
 *.apk
 
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Pp]rojectSettings/ProjectVersion.txt
+/Assets/AssetStoreTools*
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+*.opendb
