@@ -38,5 +38,6 @@
 
 ![image](https://user-images.githubusercontent.com/34049856/170968622-07a977b4-0797-4502-a807-e7a8fcefbe46.png)![image](https://user-images.githubusercontent.com/34049856/170969041-f67535ad-0725-458e-828e-caf10f9bead0.png)
 
-**其余功能自由发挥**
+DEMO案例 : *Assets>MVRF>Scenes>Demo*   ,   **其余功能自由发挥**
+![image](https://user-images.githubusercontent.com/34049856/170969713-f7f1284d-0cc2-4004-ae57-b8d0c61fe938.png)
 
