@@ -1,4 +1,5 @@
 # MVRF
+
 **注意 ： Unity版本要求小于 2020.x ， 推荐版本 2019.4.28f1c1**
 
 **内含插件：**
@@ -30,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/34049856/170967616-de76df31-2da9-4e33-b5e4-8ff36e8cd543.png)
 
-4. 删除场景内的 **Main Camera** 并在Hirarchy面板右键选择**Create VRF**；
+4. 删除场景内的 **Main Camera** 并在Hirarchy面板右键选择**Create VRF**；（Player预制件已设定好基础功能，可自定义修改）
 
 ![image](https://user-images.githubusercontent.com/34049856/170968227-42586d9d-5331-43f2-a518-bfcd79945d2b.png)
 
